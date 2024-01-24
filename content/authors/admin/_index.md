@@ -57,12 +57,22 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Matlab
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: Java
+        description: ''
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: Scheme
         description: ''
         percent: 40
         icon: database
@@ -121,5 +131,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin. My research is focused on models of synaptic plasticity in multi-scale models to investigate the functional role of synaptic heterogeneity. Previously I have worked on voltage-dependent plasticity which sparked my interest for the role of inhibitory regulation of long term plasticity. 
 {style="text-align: justify;"}

@@ -76,8 +76,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: United Kingdom
-          date_start: '2019'
-          date_end: '2023'
+          date_start: '2019-09-01
+          date_end: '2023-10-31'
           description: Teaching Assistant for Computational Cognitive Neuroscience, Marker for Neural Computation, Tutor,Demonstrator and Marker for Inf1:Cognitive Science
 
         - title: Student Research Assistant
@@ -85,8 +85,8 @@ sections:
           company_url: ''
           company_logo: ''
           location: Germany
-          date_start: '2015'
-          date_end: '2018'
+          date_start: '2015-12-01'
+          date_end: '2018-09-30'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'

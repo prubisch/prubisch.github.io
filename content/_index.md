@@ -66,13 +66,13 @@ sections:
           company: Medical School Berlin
           company_url: ''
           company_logo: ''
-          location: Germany
+          location: Berlin, Germany
           date_start: '2023-12-01'
           date_end: ''
           description: Investigating the influence of synaptic heterogeneity on plasticity induction at the Stefan Lab. 
 
         - title: Teaching Assistant
-          company: Univeristy of Edinburgh
+          company: University of Edinburgh
           company_url: ''
           company_logo: ''
           location: UK

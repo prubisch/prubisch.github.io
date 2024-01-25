@@ -75,7 +75,7 @@ sections:
           company: Univeristy of Edinburgh
           company_url: ''
           company_logo: ''
-          location: United Kingdom
+          location: UK
           date_start: '2019-09-01
           date_end: '2023-10-31'
           description: Teaching Assistant for Computational Cognitive Neuroscience, Marker for Neural Computation, Tutor,Demonstrator and Marker for Inf1:Cognitive Science

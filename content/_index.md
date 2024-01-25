@@ -67,7 +67,7 @@ sections:
           company_url: ''
           company_logo: ''
           location: Germany
-          date_start: '12\2023'
+          date_start: '01.12.2023'
           date_end: ''
           description: Investigating the influence of synaptic heterogeneity on plasticity induction at the Stefan Lab. 
 

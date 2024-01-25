@@ -1,14 +1,17 @@
 ---
-title: 'Gradient-based learning of compositional dynamics
-with modular RNNs'
+title: 'ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy
+and robustness's
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - S. Otte
+  - R. Geirhos
   - admin
-  - M. V. Butz
+  - C. Michaelis
+  - M. Bethge
+  - F. A. Wichmann
+  - W. Brendel
 
 # Author notes (optional)
 
@@ -24,8 +27,8 @@ publishDate: '2019'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Artificial Neural Networks*
-publication_short: In *ICANN*
+publication: In *International Conference on Learning Representations*
+publication_short: In *ICLR*
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

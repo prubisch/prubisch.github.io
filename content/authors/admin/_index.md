@@ -25,13 +25,15 @@ organizations:
     url: https://www.medicalschool-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on synaptic plasticity in the healthy and deseased brain. 
+bio: I want to understand how we(the brain) learn(s) ranging from behaviour to the molecular pathways of plasticity. #My research focuses on synaptic plasticity in the healthy and deseased brain. 
 
 # Interests to show in About widget
 interests:
   - Synaptic Plasticity
-  - Model of learning
-  - Impariments of plasticity in neurodevelopmental deseases
+  - Models of Learning in the healthy and diseased brain
+  - Synaptopathologies
+  - Multi-scale modelling
+  - Spiking Neural Networks
   - Biological credit assingment
 
 # Education to show in About widget
@@ -49,53 +51,34 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Matlab
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: R
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-      - name: Java
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-      - name: Scheme
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+#skills:
+#  - name: Languages
+#    items:
+#      - name: Python
+#        description: ''
+#        percent: 85
+#        icon: python
+#        icon_pack: fab
+#      - name: Matlab
+#        description: ''
+#        percent: 75
+#        icon: computer-desktop/hero
+#        icon_pack: hero
+#      - name: R
+#        description: ''
+#        percent: 50
+#        icon: computer-desktop/hero
+#        icon_pack: hero
+#      - name: Java
+#        description: ''
+#        percent: 50
+#        icon: computer-desktop/hero
+#        icon_pack: hero
+#      - name: Scheme
+#        description: ''
+#        percent: 50
+#        icon: computer-desktop/hero
+#        icon_pack: hero
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -128,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin. My research is focused on models of synaptic plasticity in multi-scale models to investigate the functional role of synaptic heterogeneity. Previously I have worked on voltage-dependent plasticity which sparked my interest for the role of inhibitory regulation of long term plasticity. 
+I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin. My research is focused on models of synaptic plasticity in multi-scale models to investigate the functional role of synaptic heterogeneity. Previously I have worked on voltage-dependent plasticity with Matthias Hennig at the Univeristy of Edinburgh which sparked my interest for the role of inhibitory regulation of long term plasticity. 
 {style="text-align: justify;"}

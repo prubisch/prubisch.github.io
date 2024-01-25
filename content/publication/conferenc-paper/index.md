@@ -1,6 +1,6 @@
 ---
 title: 'ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy
-and robustness's
+and robustness'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

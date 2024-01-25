@@ -1,7 +1,5 @@
 ---
 title: "Comparison-based frameword for psychophysics: Lab versus crowdsourcing"
-Haghiri, S., Rubisch, P., Geirhos, R., Wichmann, F., von Luxburg, U. Comparison-based
-framework for psychophysics: Lab versus crowdsourcing. arXiv. 2019
 authors:
 - S. Haghiri
 - admin

@@ -75,8 +75,8 @@ sections:
           company: University of Edinburgh
           company_url: ''
           company_logo: ''
-          location: UK
-          date_start: '2019-09-01
+          location: Edinburgh, UK
+          date_start: '2019-09-01'
           date_end: '2023-10-31'
           description: Teaching Assistant for Computational Cognitive Neuroscience, Marker for Neural Computation, Tutor,Demonstrator and Marker for Inf1:Cognitive Science
 
@@ -84,7 +84,7 @@ sections:
           company: AG Neural Information Processing, Eberhard Karls Universität Tübingen
           company_url: ''
           company_logo: ''
-          location: Germany
+          location: Tübingen, Germany
           date_start: '2015-12-01'
           date_end: '2018-09-30'
           description: Taught electronic engineering and researched semiconductor physics.
@@ -201,7 +201,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        featured_only: false
     design:
       columns: '2'
       view: card

@@ -78,7 +78,8 @@ sections:
           location: Edinburgh, UK
           date_start: '2019-09-01'
           date_end: '2023-10-31'
-          description: Providing teaching support for various courses: Computational Cognitive Neuroscience (Teaching Assistant), Neural Computation (Marker), Inf1:Cognitive Science (Tutor, Demonstrator, Marker)
+          description: Providing teaching support for various courses. Computational Cognitive Neuroscience (Teaching Assistant), Neural Computation (Marker), Introduction to Cognitive Science (Tutor, Demonstrator, Marker)
+
         - title: Student Research Assistant
           company: AG Neural Information Processing, Eberhard Karls Universität Tübingen
           company_url: ''

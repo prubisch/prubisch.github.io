@@ -1,3 +1,6 @@
+- name: Enable Debug Logging
+  run: echo "ACTIONS_STEP_DEBUG=true" >> $GITHUB_ENV
+
 name: Deploy website to GitHub Pages
 
 env:

@@ -90,8 +90,8 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/PRubisch
-    label: Follow me on Twitter
+    link: https://bsky.app/profile/prubisch.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack

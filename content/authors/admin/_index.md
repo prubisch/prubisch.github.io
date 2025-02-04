@@ -111,5 +111,7 @@ social:
 highlight_name: true
 ---
 
-I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin. My research is focused on models of synaptic plasticity in multi-scale models to investigate the functional role of synaptic heterogeneity. Previously I have worked on voltage-dependent plasticity with Matthias Hennig at the Univeristy of Edinburgh which sparked my interest for the role of inhibitory regulation of long term plasticity. 
+I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin. My research interests are focused on the biological processes of learning. I hope to elucidate the role of temporal and spatial signalling within the plasticity cascades in health and disease using modeling tools and abstractions in order to translate the low-level detailed results into functional learning models spanning networks and brain areas which I studied during my PhD at the University of Edinburgh under supervision of Matthias Hennig. Apart from active research, I believe that the transfer of knowledge and inter-disciplinary communication is central for the scientific process and reducing boundaries. 
+
+My research is focused on models of synaptic plasticity in multi-scale models to investigate the functional role of synaptic heterogeneity. Previously I have worked on voltage-dependent plasticity with Matthias Hennig at the Univeristy of Edinburgh which sparked my interest for the role of inhibitory regulation of long term plasticity. 
 {style="text-align: justify;"}

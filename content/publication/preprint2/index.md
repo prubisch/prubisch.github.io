@@ -8,7 +8,7 @@ date: "2024"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-10-T00:00:00Z"
+publishDate: "2024-01-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -64,7 +64,8 @@ publication: "bioRxiv"
 ---
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Click the _Cite_ button for bibtex entry.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

@@ -1,7 +1,7 @@
----
+#---
 title: "Inhibitory control of plasticity promotes stability and competitive learning in recurrent networks"
 
-event: Gordon Research Seminar: Inhibition in the CNS 2023
+event: "Gordon Research Seminar: Inhibition in the CNS 2023"
 #event_url: https://example.org
 
 location: "Les Diablerets, Switzerland"

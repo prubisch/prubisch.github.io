@@ -76,8 +76,8 @@ sections:
           company_url: 'https://neuromatch.io/'
           company_logo: ''
           location: online
-          date_start: '07-2024'
-          date_end: '07-2024'
+          date_start: '14-07-2024'
+          date_end: '25-07-2024'
           description: Teaching Assistant for the course NeuroAI. 
 
         - title: Teaching Assistant

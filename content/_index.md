@@ -72,6 +72,15 @@ sections:
           description: Investigating the influence of synaptic heterogeneity on plasticity induction at the Stefan Lab. 
 
         - title: Teaching Assistant
+          company: Neuromatch
+          company_url: 'https://neuromatch.io/'
+          company_logo: ''
+          location: online
+          date_start: '07-2024'
+          date_end: '07-2024'
+          description: Teaching Assistant for the course NeuroAI. 
+
+        - title: Teaching Assistant
           company: University of Edinburgh
           company_url: ''
           company_logo: ''
@@ -219,21 +228,21 @@ sections:
 #  #  design:
 #  #    columns: '2'
 #  #    view: citation
-#  #- block: collection
-#  #  id: talks
-#  #  content:
-#  #    title: Recent & Upcoming Talks
-#  #    filters:
-#  #      folders:
-#  #        - event
-#  #  design:
-#  #    columns: '2'
-#  #    view: compact
-#  #- block: tag_cloud
-#  #  content:
-#  #    title: Popular Topics
-#  #  design:
-#  #    columns: '2'
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

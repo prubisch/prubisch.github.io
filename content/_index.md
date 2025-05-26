@@ -250,7 +250,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      email: patricia.rubisch@medicalschool-berlin.de
+      email: rubischpatricia@gmail.com
       address:
         street: Leipziger Platz 10, Office 1.11
         city: Berlin

@@ -96,7 +96,7 @@ sections:
           location: Tübingen, Germany
           date_start: '2015-12-01'
           date_end: '2018-09-30'
-          description: Implementation and execution of psychophysics experiments
+          description: 'Implementation and execution of psychophysics experiments'
     design:
       columns: '2'
  - block: accomplishments

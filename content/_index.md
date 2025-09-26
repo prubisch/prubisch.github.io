@@ -69,7 +69,7 @@ sections:
           location: Berlin, Germany
           date_start: '2023-12-01'
           date_end: ''
-          description: Modelling synaptic plasticity taking into account electrohpysiology, calcium signalling and kinase activity at the Stefan Lab. Dabbeling in Computational Biology side projects like protein synthesis models. 
+          description: Modelling synaptic plasticity taking into account electrohpysiology, calcium signalling and kinase activity at the Stefan Lab. Dabbeling in Computational Biology side projects like protein synthesis models.
 
         - title: Teaching Assistant
           company: Neuromatch
@@ -114,7 +114,7 @@ sections:
         - title: Grundlagen der KI für Gesundheitsberufe
           organization: Medical School Berlin
           location: Berlin, Germany
-          date_start: 'WS 2025/26'
+          date_start: '2025-10-01'
           description: This app walks students without a computer science or math background through the basics of Artificial Intelligence and Machine Learning systems. It covers regression, clustering and classification as well as demonstrates bias in training data. It is part of the teaching material for the WPF at Medical School Berlin of the same name. 
           url: 'https://github.com/prubisch/AI_for_health_professionals'
 

@@ -118,7 +118,7 @@ sections:
           description: This app walks students without a computer science or math background through the basics of Artificial Intelligence and Machine Learning systems. It covers regression, clustering and classification as well as demonstrates bias in training data. It is part of the teaching material for the WPF at Medical School Berlin of the same name. 
           url: 'https://github.com/prubisch/AI_for_health_professionals'
 
-        - title: GRS Workshop: Modelling Inhibition in Spiking Neural Networks (with Elizabeth Herbert)
+        - title: GRS Workshop - Modelling Inhibition in Spiking Neural Networks (with Elizabeth Herbert)
           organization: Gordon Research Seminar: Inhibition in the CNS
           location: Newry, Maine, USA
           date_start: '2025-07-05'

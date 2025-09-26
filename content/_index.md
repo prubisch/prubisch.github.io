@@ -69,7 +69,7 @@ sections:
           location: Berlin, Germany
           date_start: '2023-12-01'
           date_end: ''
-          description: Investigating the influence of synaptic heterogeneity on plasticity induction at the Stefan Lab. 
+          description: |2- Modelling synaptic plasticity taking into account electrohpysiology, calcium signalling and kinase activity at the Stefan Lab. Dabbeling in Computational Biology side projects like protein synthesis models. 
 
         - title: Teaching Assistant
           company: Neuromatch
@@ -97,6 +97,33 @@ sections:
           date_start: '2015-12-01'
           date_end: '2018-09-30'
           description: Implementation and execution of psychophysics experiments.
+    design:
+      columns: '2'
+ - block: accomplishments
+    content:
+      title: Teaching & Workshop Materials
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Grundlagen der KI für Gesundheitsberufe
+          organization: Medical School Berlin
+          location: Berlin, Germany
+          date_start: 'WS 2025/26'
+          description: |2- This app walks students without a computer science or math background through the basics of Artificial Intelligence and Machine Learning systems. It covers regression, clustering and classification as well as demonstrates bias in training data. It is part of the teaching material for the WPF at Medical School Berlin of the same name. 
+          url: 'https://github.com/prubisch/AI_for_health_professionals'
+
+        - title: GRS Workshop: Modelling Inhibition in Spiking Neural Networks (with Elizabeth Herbert)
+          organization: Gordon Research Seminar: Inhibition in the CNS
+          location: Newry, Maine, USA
+          date_start: '2025-07-05'
+          description: |2- The notebooks present a step-by-step introduction to modelling with Spiking Neural Networks. The two accompanying talks for this workshop have been titledL "Modelling the effect of inhibition on synchronicity and regularity in spiking network" and "De-correlating activity via inhibitory plasticity during memory recall". It covers the following papers: Brunel, N. (2000). Dynamics of sparsely connected networks of excitatory and inhibitory spiking neurons. Journal of Computational Neuroscience, 8, 183–208. and Vogels, T. P., Sprekeler, H., Zenke, F., Clopath, C., & Gerstner, W. (2011). Inhibitory plasticity balances excitation and inhibition in sensory pathways and memory networks. Science, 334(6062), 1569–1573. "
+          url: 'https://github.com/prubisch/GRS_2025_spiking_EI_workshop '
     design:
       columns: '2'
 #  - block: accomplishments

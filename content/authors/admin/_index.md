@@ -25,7 +25,7 @@ organizations:
     url: https://www.medicalschool-berlin.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I want to understand how the brain learns by using modells of molecular pathways, ion channels up to networks. 
+bio: I want to understand how the brain learns by using modells of molecular pathways, ion channels and synpases transferring the insights to networks. 
 
 # Interests to show in About widget
 interests:
@@ -111,8 +111,8 @@ social:
 highlight_name: true
 ---
 
-I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin working on computaitonal models of synaptic plasticity. My research interest is focused on the biological processes of learning. I hope to elucidate the role of temporal and spatial signalling/filters within the plasticity cascades in health and disease. My approach uses modelling tools and abstractions in order to translate the highly detailed biologically-plausible models and results into functional learning rules suitable for large network simulations. I studied functional development in spiking neural networks during my PhD at the University of Edinburgh under supervision of Matthias Hennig.
+I am a PostDoctoral researcher in the group of Melanie Stefan at Medical School Berlin working on computational models of synaptic plasticity. My research interest is focused on the biological processes of learning. I hope to elucidate the role of temporal-spatial signalling of the various actors within the plasticity cascades in health and disease. My approach uses multi-scale models including biochemical reaction system and electrophysiology in order to translate the highly detailed biologically-plausible models and results into functional learning rules suitable for large network simulations. I studied functional development in spiking neural networks during my PhD at the University of Edinburgh under supervision of Matthias Hennig.
 
- I believe that the transfer of knowledge and inter-disciplinary communication is central for the scientific process and reducing boundaries. Therefore, I try to take part in science outreach and teaching in online accessible courses e.g. Neuromatch. At Medical School Berlin, I organise the INBICA Journal Club to facilitate interdisciplinary communication between researchers within the Institute for Neuroscience and Biopsychology for Clinical Application. I am also the postdoc representative of the Bernstein Network. 
+ I believe that the transfer of knowledge and inter-disciplinary communication is central for the scientific process. Therefore, I try to take part in science outreach and teaching in online accessible courses e.g. Neuromatch. At Medical School Berlin, I organise the INBICA Journal Club to facilitate interdisciplinary communication between researchers within the Institute for Neuroscience and Biopsychology for Clinical Application. Science thrives with a good community. As the postdoc representative of the Bernstein Network, I try to take a more active role in creating an open and welcoming community with strong peer-support. 
 
 {style="text-align: justify;"}

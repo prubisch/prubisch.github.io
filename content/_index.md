@@ -119,7 +119,7 @@ sections:
           url: 'https://github.com/prubisch/AI_for_health_professionals'
 
         - title: GRS Workshop - Modelling Inhibition in Spiking Neural Networks (with Elizabeth Herbert)
-          organization: Gordon Research Seminar: Inhibition in the CNS
+          organization: Gordon Research Seminar - Inhibition in the CNS
           location: Newry, Maine, USA
           date_start: '2025-07-05'
           description: The notebooks present a step-by-step introduction to modelling with Spiking Neural Networks. The two accompanying talks for this workshop have been titledL "Modelling the effect of inhibition on synchronicity and regularity in spiking network" and "De-correlating activity via inhibitory plasticity during memory recall". It covers the following papers: Brunel, N. (2000). Dynamics of sparsely connected networks of excitatory and inhibitory spiking neurons. Journal of Computational Neuroscience, 8, 183–208. and Vogels, T. P., Sprekeler, H., Zenke, F., Clopath, C., & Gerstner, W. (2011). Inhibitory plasticity balances excitation and inhibition in sensory pathways and memory networks. Science, 334(6062), 1569–1573. "
